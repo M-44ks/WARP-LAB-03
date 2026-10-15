@@ -3,7 +3,9 @@ Maksym
 
 
 ### Doświadczenie z informatyką
-Ukończyłem technikum z tytułem technika programisty. 
+Budowa i wprowadzanie zmian na stronach internetowych.
+Ukończenie technikum z tytułem programisty.
+Budowa systemu obsługi klientów.
 
 
 ### Umiejętności (języki, narzędzia, technologie)
@@ -26,8 +28,7 @@ Ukończyłem technikum z tytułem technika programisty.
     3. Postman
 
 ### Projekty
-.....
-
+Projekt w technologii Flutter [SmartHabitTracker](https://github.com/ejaszczuq/smart-habit-tracker).
 
 ### Cele na studiach
 .....
