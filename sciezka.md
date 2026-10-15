@@ -4,8 +4,8 @@ Maksym
 
 ### Doświadczenie z informatyką
 Budowa i wprowadzanie zmian na stronach internetowych.
-Ukończenie technikum z tytułem programisty.
 Budowa systemu obsługi klientów.
+Ukończenie technikum z tytułem programisty.
 
 
 ### Umiejętności (języki, narzędzia, technologie)
@@ -27,8 +27,11 @@ Budowa systemu obsługi klientów.
     2. Android Studio
     3. Postman
 
+
 ### Projekty
-Projekt w technologii Flutter [SmartHabitTracker](https://github.com/ejaszczuq/smart-habit-tracker).
+[Konfigurator kamperów](https://konfigurator.vanestro.com/pl)
+Projekt w technologii Flutter [SmartHabitTracker](https://github.com/ejaszczuq/smart-habit-tracker)
+
 
 ### Cele na studiach
-.....
+Dalszy rozwój umiejętności.
